@@ -2,8 +2,8 @@
 In the exercise for this week we will explore the linear and nonlinear viscous flow as it relates to glaciers. We'll start with the simple equation for a linear viscous fluid flowing down an incline and then consider more complicated scenarios.
 
 ## Components
-1. [Background theory for Exercise 5 Part 1](Exercise-5-theory-1.md)
-2. [Background theory for Exercise 5 Part 2](Exercise-5-theory-2.md)
+1. [Background and theory for Exercise 5, problem 1](Exercise-5-theory-1.md)
+2. [Background and theory for Exercise 5, problem 2](Exercise-5-theory-2.md)
 2. [Laboratory exercise 5](https://classroom.github.com/assignment-invitations/2fcd8fc2bdf8334c83a0a253bf42f287)
 
 ## Resources
