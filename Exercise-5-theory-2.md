@@ -1,6 +1,6 @@
 # Theory for Exercise 5, problem 2
 ![Flow down an incline](Images/inclined_plane_relabeled.png)<br/>
-*Figure 5. Schematic diagram of a viscous fluid flowing down an inclined plane.*
+*Figure 1. Schematic diagram of a viscous fluid flowing down an inclined plane.*
 
 The velocity of a fluid flowing down an inclined plane can be modelled using some basic physical relationships. First, recall that the basal shear stress for a fluid flowing down an inclined plane is due to the down slope component of the weight of the overlying fluid
 
