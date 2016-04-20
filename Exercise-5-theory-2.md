@@ -1,4 +1,4 @@
-# Theory for Exercise 5, Part 2
+# Theory for Exercise 5, problem 2
 ![Flow down an incline](Images/inclined_plane_relabeled.png)<br/>
 *Figure 5. Schematic diagram of a viscous fluid flowing down an inclined plane.*
 
