@@ -4,7 +4,7 @@ In the exercise for this week we will explore the linear and nonlinear viscous f
 ## Components
 1. [Background and theory for Exercise 5, problem 1](Exercise-5-theory-1.md)
 2. [Background and theory for Exercise 5, problem 2](Exercise-5-theory-2.md)
-2. [Laboratory exercise 5](https://classroom.github.com/assignment-invitations/2fcd8fc2bdf8334c83a0a253bf42f287)
+2. [Laboratory exercise 5](https://github.com/Intro-Quantitative-Geology/Lab-exercise-5)
 
 ## Resources
 - Past exercise materials
